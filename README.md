@@ -1,14 +1,8 @@
+# 👋 Olá, eu sou Thales Alves
 
+## 🎓 Estudante de Engenharia de Software
 
-<h1 align="center">THALES ALVES</h1>
-
-<h3 align="center">
-Estudante de Engenharia de Software
-</h3>
-
-<p align="center">
-Em busca da primeira oportunidade em tecnologia, suporte TI ou desenvolvimento de software.
-</p>
+🚀 Em busca da primeira oportunidade em tecnologia, suporte TI ou desenvolvimento de software.
 
 ---
 
@@ -20,3 +14,19 @@ Em busca da primeira oportunidade em tecnologia, suporte TI ou desenvolvimento d
 - 🔧 Interesse em suporte técnico e desenvolvimento
 - 📚 Aprendizado contínuo
 - ⚡ Perfil dedicado e proativo
+
+---
+
+## 🛠️ Habilidades
+
+- Python Básico
+- GitHub
+- Lógica de Programação
+- Comunicação
+- Trabalho em Equipe
+
+---
+
+## 🚀 Objetivo
+
+Conseguir minha primeira oportunidade profissional na área de tecnologia para desenvolver experiência prática e crescer na área de TI.

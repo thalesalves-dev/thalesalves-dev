@@ -20,7 +20,6 @@
 ## 🛠️ Habilidades
 
 - Python Básico
-- GitHub
 - Lógica de Programação
 - Comunicação
 - Trabalho em Equipe

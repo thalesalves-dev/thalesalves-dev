@@ -1,16 +1,24 @@
-## Hi there 👋
+<p align="center">
+  <img src="NOME-DA-SUA-IMAGEM.png">
+</p>
 
-<!--
-**thalesalves-dev/thalesalves-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">THALES ALVES</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+Estudante de Engenharia de Software
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Em busca da primeira oportunidade em tecnologia, suporte TI ou desenvolvimento de software.
+</p>
+
+---
+
+## 💻 Sobre Mim
+
+- 🎓 Estudante de Engenharia de Software
+- 🐍 Conhecimentos básicos em Python
+- 🖥️ Interesse em tecnologia
+- 🔧 Interesse em suporte técnico e desenvolvimento
+- 📚 Aprendizado contínuo
+- ⚡ Perfil dedicado e proativo

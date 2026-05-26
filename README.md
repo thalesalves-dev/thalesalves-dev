@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="NOME-DA-SUA-IMAGEM.png">
+  <img src=<img src="4F204006-70C8-4D6E-AD44-0E0C4623636B.png">
 </p>
 
 <h1 align="center">THALES ALVES</h1>
